@@ -71,8 +71,6 @@ class AuthScreen extends Component {
 
         if (type === 'success') {
             /* `accessToken` is now valid and can be used to get data from the Google API with HTTP requests */
-            //console.log(user);
-            //console.log(accessToken);
 
             await AsyncStorage.setItem('google_token', accessToken);
 
