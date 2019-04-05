@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bc6b38c6-dcc4-4ef5-9bf2-13b5f84eeaec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screens/AuthScreen.js" afterPath="$PROJECT_DIR$/screens/AuthScreen.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignUpScreen.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SignUpScreen.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/screens/SignUpScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="510">
+              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -60,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthScreen.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AuthScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screens/AuthScreen.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-193">
@@ -155,7 +154,6 @@
         <option value="$PROJECT_DIR$/components/common/index.js" />
         <option value="$PROJECT_DIR$/screens/LinksScreen.js" />
         <option value="$PROJECT_DIR$/navigation/ReviewStackNavigator.js" />
-        <option value="$PROJECT_DIR$/screens/SignUpScreen.js" />
         <option value="$PROJECT_DIR$/components/LoginForm.js" />
         <option value="$PROJECT_DIR$/screens/DeckScreen.js" />
         <option value="$PROJECT_DIR$/screens/EditJobScreen.js" />
@@ -177,6 +175,7 @@
         <option value="$PROJECT_DIR$/components/Slides.js" />
         <option value="$PROJECT_DIR$/screens/Senator.js" />
         <option value="$PROJECT_DIR$/screens/AuthScreen.js" />
+        <option value="$PROJECT_DIR$/screens/SignUpScreen.js" />
       </list>
     </option>
   </component>
@@ -258,12 +257,12 @@
       <updated>1552489268365</updated>
       <workItem from="1552489273410" duration="69121000" />
       <workItem from="1554061187853" duration="16458000" />
-      <workItem from="1554148502923" duration="11254000" />
+      <workItem from="1554148502923" duration="11330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96833000" />
+    <option name="totallyTimeSpent" value="96909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -590,16 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screens/SignUpScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/Slides.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -662,6 +651,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-193">
           <caret line="72" column="111" lean-forward="false" selection-start-line="72" selection-start-column="111" selection-end-line="72" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/SignUpScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

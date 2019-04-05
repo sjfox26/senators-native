@@ -25,14 +25,12 @@ class SenatorDetailScreen extends Component {
           justifyContent: 'center'
         }}>
 
-
         <Text>Details Screen</Text>
 
         <Text>{firstName}</Text>
         <Text>{lastName}</Text>
         <Text>Birthday: {bday}</Text>
         <Text>{link}</Text>
-
 
         {/*
         Other Option (if you just passed in { senator: senator } as second arg to navigate function in openDetails of SenatorsListScreen):
