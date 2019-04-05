@@ -30,9 +30,6 @@ class SignUpScreen extends Component {
                 this.onLoginFail.bind(this)
             });
 
-
-
-
         this.setState({ error: '', loading: false });
 
     }
