@@ -49,7 +49,7 @@ class AuthScreen extends Component {
     }
 
     checkGoogleForExistingUser = async () => {
-      //DEV: comment out next few lines if you DON'T want google user to be remembered
+      //DEV: comment out next few lines if you DON'T want google user to be remembered, then set the token state to false in CWM of WelcomeScreen
       /*let token = await AsyncStorage.getItem('google_token');
 
       if (token) {
