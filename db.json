@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "position": "Coder",
+      "company": "CoolCo"
+    },
+    {
+      "position": "Developer",
+      "company": "NiceCo"
+    }
+  ]
+}
