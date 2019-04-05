@@ -17,7 +17,6 @@ class SenatorDetailScreen extends Component {
     const link = navigation.getParam('link', 'no link available');
 
     return (
-
       <View
         style={{
           flex: 1,
